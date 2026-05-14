@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai-whisper
+transformers
+torch
+pymongo
+python-multipart
+numpy
+pandas
+scikit-learn
